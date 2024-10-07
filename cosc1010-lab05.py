@@ -132,5 +132,5 @@ print(f"Zero occurred {zero_count} time(s)")
 # Given the same numbers list, give the sum of all positive numbers, and the sum of all negative numbers
 # This should be done within a single loop
 
-print(f"Sum of positive numbers {pos_sum}")
-print(f"Sum of negative numbers {neg_sum}")
+print(f"Sum of positive numbers = {pos_sum}")
+print(f"Sum of negative numbers = {neg_sum}")
